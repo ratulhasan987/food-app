@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import Navbar from "./Navbar";
 
-const Hero = () => {
+const LandingPage = () => {
   return (
     <div className="relative min-h-screen">
       <Image
@@ -33,4 +33,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default LandingPage;

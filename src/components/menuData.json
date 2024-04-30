@@ -1,0 +1,40 @@
+
+[
+    {
+      "img": "/cake.avif",
+      "title": "Delicious Cake",
+      "desc": "2x tuna sahimi, 1x noodles",
+      "price": "$29.50"
+    },
+    {
+      "img": "/pizza.jpg",
+      "title": "Italian Pizza",
+      "desc": "2x tuna sahimi, 1x noodles",
+      "price": "$29.50"
+    },
+    {
+        "img": "/cake.avif",
+        "title": "Delicious Cake",
+        "desc": "2x tuna sahimi, 1x noodles",
+        "price": "$29.50"
+      },
+      {
+        "img": "/cake.avif",
+        "title": "Delicious Cake",
+        "desc": "2x tuna sahimi, 1x noodles",
+        "price": "$29.50"
+      },
+      {
+        "img": "/pizza.jpg",
+        "title": "Italian Pizza",
+        "desc": "2x tuna sahimi, 1x noodles",
+        "price": "$29.50"
+      },
+      {
+        "img": "/pizza.jpg",
+        "title": "Italian Pizza",
+        "desc": "2x tuna sahimi, 1x noodles",
+        "price": "$29.50"
+      }
+  ]
+  

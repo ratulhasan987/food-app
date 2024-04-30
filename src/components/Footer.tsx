@@ -10,8 +10,8 @@ const Footer = () => {
           <h2 className="text-xl font-bold">About Us</h2>
           <p className="leading-[1.8]">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis
-            atque repudiandae consectetur quibusdam eius dignissimos recusandae,
-            tenetur maiores quos veniam deleniti esse.
+            atque repudiandae consectetur quibusdam eius dignissimos recusandae.
+           
           </p>
         </div>
 
@@ -37,7 +37,7 @@ const Footer = () => {
       </div>
 
       <div className="w-fit mx-auto pt-16 pb-8 text-[14px] sm:text-[16px]">
-        &copy; Copyright 2023 All rights reserved
+        &copy; Copyright 2024 All rights reserved
       </div>
     </div>
   );
